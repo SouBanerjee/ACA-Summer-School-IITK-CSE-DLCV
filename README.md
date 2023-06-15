@@ -5,3 +5,4 @@
 - [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 - [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258)
 - [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
+- [DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
