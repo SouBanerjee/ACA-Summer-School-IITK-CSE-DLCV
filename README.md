@@ -1,6 +1,5 @@
-# ACA-Summer-School-IITK-CSE-DLCV
-
-
+# ACA Summer School: DLCV
+## Reading Materials:
 - [Deep Learning Book](https://www.deeplearningbook.org/)
 - [Dive into Deep Learning](http://d2l.ai/index.html)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
