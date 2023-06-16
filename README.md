@@ -8,3 +8,4 @@
 - [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
 - [DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 - [Made With ML](https://madewithml.com/)
+- [Probability Refresher](https://www.cse.iitk.ac.in/users/piyush/courses/PML_Resources/probstats_refresher.pdf)
